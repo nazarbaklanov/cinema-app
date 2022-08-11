@@ -32,6 +32,10 @@ Everyone has access to the following pages: `/register` and `/login`
 - Change a movie session by its id (`PUT: /movie-sessions/{id}`); 
 - Delete a movie session by its id (`DELETE: /movie-sessions/{id})`.
 
+Database structure
+-------------------
+![diagram.jpg](diagram.jpg)
+
 Technology Stack 💻
 -------------------
 - Java 11
