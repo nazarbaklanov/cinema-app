@@ -54,4 +54,5 @@ In order to run this application, install MySQL and Apache TomCat 9.0.50 on your
 4. Configure TomCat. Use `/` as your application context path.
 5. You can now run this application by using a TomCat local server.
 6. You can use credentials defined in the `DataIntializer` class to log in as `Admin`. In order to log in as `User`, you can either use the credentials defined in the above class or create a new account.
-7. Use Postman or any other Software to send HTTP-requests and receive HTTP-responses.
+7. Use Postman or any other Software to send HTTP-requests and receive HTTP-responses :point_right: [**Postman**](https://www.postman.com/)
+
